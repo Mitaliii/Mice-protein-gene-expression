@@ -1,0 +1,16 @@
+Module/Libraries/Packages Requirements:-
+
+import numpy
+import pandas 
+import sklearn
+import seaborn
+import matplotlib.pyplot
+from sklearn import preprocessing
+from sklearn.metrics import r2_score
+from sklearn.metrics import make_scorer
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_matrix
+from sklearn.model_selection import ShuffleSplit
+from sklearn.model_selection import GridSearchCV
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split
